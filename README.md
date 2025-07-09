@@ -1,6 +1,6 @@
 # 🔐 Login & Registration System
 
-
+## 🚀  [![Live Demo](https://reemabdelkader.github.io/Login-Registration-Form/)]
 A responsive login and registration form with client-side validation and localStorage data persistence.
 
 ## ✨ Features
@@ -18,9 +18,3 @@ A responsive login and registration form with client-side validation and localSt
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=flat&logo=font-awesome&logoColor=white)
 
-## 🚀 Quick Start
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/login-registration-system.git
-```
